@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:paddingTop="1dp"
+    android:paddingBottom="1dp">
+
+    <TextView
+        android:id="@+id/textViewLine"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="12.5sp"
+        android:fontFamily="monospace"
+        android:lineSpacingMultiplier="1.2"
+        android:textIsSelectable="true"
+        android:paddingHorizontal="4dp" />
+
+</LinearLayout>

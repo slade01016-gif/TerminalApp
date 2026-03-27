@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="ic_launcher_background">#0A0A0A</color>
+    <color name="terminal_bg">#0A0A0A</color>
+    <color name="terminal_red">#FF3C3C</color>
+    <color name="terminal_green">#44FF44</color>
+    <color name="terminal_cyan">#00CFFF</color>
+    <color name="terminal_white">#C8E6C9</color>
+    <color name="header_bg">#111111</color>
+</resources>

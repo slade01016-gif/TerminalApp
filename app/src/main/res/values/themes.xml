@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.Terminal0" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/terminal_red</item>
+        <item name="colorPrimaryVariant">@color/terminal_red</item>
+        <item name="colorOnPrimary">@color/terminal_white</item>
+        <item name="colorSurface">@color/terminal_bg</item>
+        <item name="android:windowBackground">@color/terminal_bg</item>
+        <item name="android:statusBarColor">@color/header_bg</item>
+        <item name="android:navigationBarColor">@color/header_bg</item>
+        <item name="android:textCursorDrawable">@null</item>
+    </style>
+</resources>
